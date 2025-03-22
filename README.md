@@ -44,4 +44,5 @@ Introducing our Event Management System, a solution developed as part of our fin
 **The Server is running on http://localhost:4000**
 
 <h1>Thank You</h1>
-
+## 🎥 Demo Video
+[Click here to watch the demo](https://github.com/revanth0307/UniversityEvent/releases)
